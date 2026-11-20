@@ -1,0 +1,18 @@
+﻿{
+  "name": "مینووی ڕۆما کافێ",
+  "short_name": "مینوو",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1735",
+  "theme_color": "#0c1735",
+  "lang": "ckb",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
